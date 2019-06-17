@@ -1,0 +1,1 @@
+This directory will review practices for Shell, I/O Redirections and filters.
